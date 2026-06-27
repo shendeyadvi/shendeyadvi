@@ -44,12 +44,6 @@
 
 ---
 
-## 💬 Quote I Live By
-
-> "Small progress every day leads to big results."
-
----
-
 ## 🤝 Let's Connect
 
 - GitHub: https://github.com/shendeyadvi
