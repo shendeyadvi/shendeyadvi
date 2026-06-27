@@ -29,10 +29,9 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-- Python 🐍
+- Python
 - HTML
 - CSS 
-- JavaScript
 - Git & GitHub
 
 ---
