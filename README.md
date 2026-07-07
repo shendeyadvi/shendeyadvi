@@ -39,7 +39,7 @@
 ## 🌟 Featured Projects
 
 - 🎮 Hangman Game - A command-line Hangman game built using Python.
-- 🤖 Luna-Chatbot - 
+- 🤖 Luna-Chatbot - A simple rule-based chatbot built with Python that responds to predefined user inputs.
 
 ---
 
