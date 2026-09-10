@@ -19,7 +19,7 @@
 
 ## 🌱 Currently Exploring
 - Data Structures & Algorithms (DSA)
-- Full Stack Web Development
+- Web Development
 - Artificial Intelligence & Machine Learning
 - Open Source Development
 - Software Development
